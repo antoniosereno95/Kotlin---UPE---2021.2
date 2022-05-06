@@ -1,0 +1,11 @@
+{
+  "name": "RoboCode_AntonioSereno",
+  "version": "1.0",
+  "gameTypes": "melee, classic , 1v1",
+  "autors:": "AntonioSereno",
+  "description": "Meu robo mete bala",
+  "homepage": "",
+  "countryCodes": "br",
+  "platform": "JVM",
+  "programingLang": "Kotlin 1.6.20"
+}
