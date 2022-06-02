@@ -1,0 +1,11 @@
+{
+  "name": "antonio",
+  "version": "1.0",
+  "gameTypes": "melee, classic, 1v1",
+  "authors": "Antonio",
+  "description": "Meu robo mete bala",
+  "homepage": "",
+  "countryCodes": "br",
+  "platform": "JVM",
+  "programmingLang": "Kotlin 1.6.20"
+}
